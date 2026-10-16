@@ -1,3 +1,5 @@
+![fix-retention — minimal black-and-white return-loop banner](assets/banner.png)
+
 # fix-retention
 
 An AI agent skill that investigates your SaaS and creates a practical plan to improve customer retention.
