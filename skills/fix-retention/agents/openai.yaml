@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fix Retention"
+  short_description: "Research SaaS retention and plan targeted improvements"
+  default_prompt: "Use $fix-retention to understand this SaaS, investigate retention evidence, ask focused questions, and create a prioritized plan before implementation."
